@@ -1,5 +1,5 @@
 # Defining Key Name for connection
 variable "Keyname" {
-  default     = "cba-web-key.pem" 
+  default     = "cba-web-key" 
   description = "Name of AWS key pair"
 }
